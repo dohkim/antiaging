@@ -1,0 +1,13 @@
+-----------Confirmed------------
+- Logo Icon image : 하얀색이 나을것 같음. 투명배경으로 
+- Fitness , acupunture, nutrition control 부분에 몇개가 들어가느냐에 따라, 정렬방법 결정 . 3개 중간정렬
+- how it work 밑에 섹션에 1, 2, 3 옆의 글자들 위치가 부자연스러움. 
+- office 중간정렬및 박스 안의 주소, 번호등은 왼쪽정렬, office 안의 box 정렬
+- start to healthy today에 안의 2 section every week의 글자는 왼쪽정렬이 나아 보임
+- image size 개선 시급
+- navibar 밑 padding이 좁음
+- our location 위 margin 추가.
+
+
+-------Not confirmed-------------
+
